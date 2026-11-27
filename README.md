@@ -51,7 +51,7 @@ Cosmetics data often has many columns that are redundant or only weakly related 
 
 `ChemicalCount` and `ChemicalDateRemoved` scored lowest.
 
-![Feature importance](images/feature-importance.png)
+![Feature importance](feature-importance.png)
 
 ### PCA and clustering
 
@@ -59,11 +59,11 @@ The two principal components explain **51.97%** and **21.58%** of the variance, 
 
 KMeans with 3 clusters separates the projected data into three groups.
 
-![PCA clustering](images/pca-clustering.png)
+![PCA clustering](pca-clustering.png)
 
 ### Console output
 
-![Terminal output](images/terminal-output.png)
+![Terminal output](terminal-output.png)
 
 ## ⚠️ Limitations and Next Steps
 
@@ -98,7 +98,4 @@ Cosmetics-Feature-Selection-PCA-KMeans/
 ├── README.md
 └── images/
 ```
-
-## 👩‍💻 Author
-
-**A.K. Ramya** · [LinkedIn](https://linkedin.com/in/ramya-anbu) · [Portfolio](https://ramyaanbazhagan.github.io/portfolio/)
+[LinkedIn](https://linkedin.com/in/ramya-anbu) · [Portfolio](https://ramyaanbazhagan.github.io/portfolio/)
